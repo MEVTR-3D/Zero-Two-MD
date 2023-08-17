@@ -33,14 +33,14 @@ var _0x1a32e8=_0x41cc;function _0x41cc(_0x40a8d6,_0x3701e2){var _0x2635b7=_0x263
 global.owner = process.env.owner || ['919628516236','916307151530','918953092716' , '919330953026' , '918101187835'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
 global.pemilik = ['919628516236' , '918101187835'] //another owner number
 global.premium = ['919628516236' , '918101187835'] //premium number
-global.pengguna = '𝐙𝐞𝐫𝐨 𝐓𝐰𝐨 𝐌𝐝' //username
+global.pengguna = 'MEVTR' //username
 global.mongodb = process.env.MONGODB_URI || "Enter-MongoURI-HERE"
 
 global.port = process.env.PORT || 5000
 global.botnma = process.env.botnma || '𝐙𝐞𝐫𝐨 𝐓𝐰𝐨 𝐌𝐝'//bot name
 global.watermark = "ENJOY WITH ZERO TWO"
 global.botname = process.env.botnamw || '𝐙𝐞𝐫𝐨 𝐓𝐰𝐨 𝐌𝐝'
-global.ownernma = 'Ikshwaku Pandey' //owner name
+global.ownernma = 'MEVTR' //owner name
 global.ownername = process.env.ownername || 'Ikshwaku Pandey' //owner name
 global.packname = 'Zero-Two' //sticker package name
 global.author = 'Dont Steal' //sticker author name
